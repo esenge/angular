@@ -4,7 +4,11 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.11.1"
+    "bootstrap": "^4.0.0-alpha.2",
+    "express": "^4.11.1",
+    "jQuery": "^1.7.4",
+    "jquery": "^2.2.0",
+    "passport": "^0.3.2"
   },
   "devDependencies": {},
   "scripts": {
